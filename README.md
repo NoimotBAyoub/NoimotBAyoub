@@ -23,9 +23,6 @@ Developed an efficient fraud detection system using lightweight machine learning
 **[Government Financial Inclusion Policy an Impact Evaluation]()**  
 Using a difference-in-differences methodology I examine the impact of the government lead financial inclusion strategy.
 
-**[TBA]()**  
-Under construction
-
 ## 🛠️ Tools & Technologies  
 
 **Programming Languages:**  
