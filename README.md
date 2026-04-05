@@ -20,7 +20,7 @@ I specialize in:
 **[Fast Fraud Screening Using Lightweight Models](https://github.com/unomics20/fall-2025-fast-fraud-screening-using-lightweight-models-to-flag-risk-before-deep-analysis)**  
 Developed an efficient fraud detection system using lightweight machine learning models to flag high-risk transactions before deep analysis. Implemented predictive models that balance accuracy with computational efficiency, enabling real-time risk assessment.
 
-**[Fragmented ID Resolution Using Deep Learning (LinkID app](https://github.com/Erdos-Projects/spring-2026-deep-learning-fragmented-id-resolution)**  
+**[Fragmented ID Resolution Using Deep Learning (LinkID app)](https://github.com/Erdos-Projects/spring-2026-deep-learning-fragmented-id-resolution)**  
 An identity resolution system combining deep learning and human review to detect duplicate records and support reliable decision-making.
 
 **[Government Financial Inclusion Policy an Impact Evaluation]()**  
